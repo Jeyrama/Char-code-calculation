@@ -8,10 +8,13 @@ total1 = 656667
               ^
 total2 = 656661
               ^
-              
+
 Then return the difference between the sum of the digits in total1 and total2:
   (6 + 5 + 6 + 6 + 6 + 7)
 - (6 + 5 + 6 + 6 + 6 + 1)
 -------------------------
                        6
 */
+
+
+// Solution
